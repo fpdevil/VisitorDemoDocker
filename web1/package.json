@@ -1,0 +1,14 @@
+{
+    "name": "web1_visits",
+    "author": "Sampath",
+    "version": "1.0.0",
+    "description": "nodejs image visits demo",
+    "main": "index.js",
+    "dependencies": {
+        "express": "*",
+        "redis": "^3.0.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
